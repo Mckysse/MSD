@@ -1,7 +1,7 @@
 # MSD
 code of our paper MSD in EMNLP 2022 main conference.
 
-Wider &amp; Closer: Mixture of Short-channel Distillers for Zero-shot Cross-lingual Named Entity Recognition ([arxiv](https://arxiv.org/))
+Wider &amp; Closer: Mixture of Short-channel Distillers for Zero-shot Cross-lingual Named Entity Recognition ([arxiv](https://arxiv.org/abs/2212.03506))
 
 Accepted by The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022).
 
@@ -12,7 +12,7 @@ Accepted by The 2022 Conference on Empirical Methods in Natural Language Process
 ## Citation
 If you use this code, please cite the paper below:
 
-[Wider &amp; Closer: Mixture of Short-channel Distillers for Zero-shot Cross-lingual Named Entity Recognition](https://arxiv.org/)
+[Wider &amp; Closer: Mixture of Short-channel Distillers for Zero-shot Cross-lingual Named Entity Recognition](https://arxiv.org/abs/2212.03506)
 
 
 ## License 
